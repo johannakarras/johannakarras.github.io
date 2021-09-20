@@ -1,7 +1,7 @@
 title: Johanna Karras 
-logo: <img border-radius: 25px> "/images/johanna.jpg?raw=true" </img>
+logo:  "/images/johanna.jpg?raw=true" 
 description: 
-  <center>PhD Student @ UW</center>
+  PhD Student @ UW
   <br><br>
   Welcome to my website! I am a first-year PhD student focusing in machine learning and computer vision at the 
   Graphics and Imaging Lab (GRAIL) at UW.
