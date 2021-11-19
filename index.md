@@ -1,7 +1,5 @@
 ## Curriculum Vitae
 
-[CV](/files/CV.pdf)
-
 ---
 
 ### Research Interests
