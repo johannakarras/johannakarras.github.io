@@ -1,6 +1,6 @@
 ## Curriculum Vitae
 
-[CV](/files/CV.pdf) / [Resumé](/files/Resume.pdf)
+[CV](/files/CV.pdf)
 
 ---
 
