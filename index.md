@@ -1,10 +1,11 @@
 ## Curriculum Vitae
 
+##### [Download CV.pdf](/files/CV.pdf) 
 ---
 
 ### Research Interests
 
-My research interests lie at the intersection of machine learning, AI, and computer vision.
+My research lies at the intersection of machine learning, computer vision, and graphics. I am currently interested in still image reanimation and generative modeling.
 
 ### Research Projects
 
@@ -30,5 +31,3 @@ My research interests lie at the intersection of machine learning, AI, and compu
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
