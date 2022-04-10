@@ -1,13 +1,20 @@
 ## Curriculum Vitae
 
 ##### [Download CV.pdf](/files/CV.pdf) 
----
 
+
+---
 ### Research Interests
+
+---
 
 My research lies at the intersection of machine learning, computer vision, and graphics. I am currently interested in still image reanimation and generative modeling.
 
+---
+
 ### Research Projects
+
+---
 
 *Deep Neural Networks for Black Hole Imaging*
 
