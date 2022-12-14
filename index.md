@@ -38,3 +38,16 @@ My research lies at the intersection of machine learning, computer vision, and g
 
 
 ---
+### Awards & Recognition
+
+---
+
+* UW Reality Lab -- Amazon Fellowship (2022)
+
+* Google Computer Science Mentorship Program (2021)
+
+* NCWIT Collegiate Award Finalist (2020)
+
+* Caltech Summer Undergraduate Research Fellowship (SURF) (2020)
+
+---
