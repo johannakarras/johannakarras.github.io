@@ -30,6 +30,8 @@ My research lies at the intersection of machine learning, computer vision, and g
 
 ---
 
+* Google, *PhD Student Researcher* (Summer 2023)
+
 * Streetscope Inc., *Computer Vision/AI Intern* (Summer 2021)
 
 * J.P. Morgan, *Software Engineering Intern* (Summer 2019)
