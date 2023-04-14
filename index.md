@@ -11,6 +11,12 @@
 My research lies at the intersection of machine learning, computer vision, and graphics. I am currently interested in still image reanimation and generative modeling.
 
 ---
+### Highlights
+---
+*  April, 2023: My latest project, *DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion*, is published on arxiv.
+*  March, 2023: I have accepted an offer to work as a PhD Student Researcher at Google this summer.
+
+---
 
 ### Research Projects
 
