@@ -15,14 +15,14 @@ My research lies at the intersection of machine learning, computer vision, and g
 ### Research Projects
 
 ---
+*DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion*
+
+* [Project Page](https://grail.cs.washington.edu/projects/dreampose/)
+* [Arxiv](https://arxiv.org/abs/2304.06025)
 
 *Deep Neural Networks for Black Hole Imaging*
 
 * As an undergraduate at Caltech, I worked in with Professor Katie Bouman and Dr. He Sun on deep neural network techniques for black hole imaging. The project was presented at CVPR 2021. See the project and extended abstract in the [Github Repo](https://github.com/johannakarras/Deep-Neural-Networks-for-Black-Hole-Imaging).
-
-*NLP and Machine Learning for Deciphering Financial Reports*
-
-* In an independent research project with Caltech and PIMCO, I worked with Professor Adam Wierman and a team of other students to develop an automated pipeline using natural language processing (NLP) and machine learning to automate analysis of dense financial reports.
 
 ---
 
