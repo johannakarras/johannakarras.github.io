@@ -15,12 +15,11 @@ My research lies at the intersection of machine learning, computer vision, and g
 ### Research Projects
 
 ---
-*DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion*
+#### [DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion](https://grail.cs.washington.edu/projects/dreampose/)
 
-* [Project Page](https://grail.cs.washington.edu/projects/dreampose/)
-* [Arxiv](https://arxiv.org/abs/2304.06025)
+<img src="images/DreamPose.png"  width="500" height="300">
 
-*Deep Neural Networks for Black Hole Imaging*
+#### Deep Neural Networks for Black Hole Imaging
 
 * As an undergraduate at Caltech, I worked in with Professor Katie Bouman and Dr. He Sun on deep neural network techniques for black hole imaging. The project was presented at CVPR 2021. See the project and extended abstract in the [Github Repo](https://github.com/johannakarras/Deep-Neural-Networks-for-Black-Hole-Imaging).
 
