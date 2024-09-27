@@ -13,8 +13,10 @@ My research lies at the intersection of machine learning, computer vision, and g
 ---
 ### Highlights
 ---
+*  June, 2024: I return as a PhD Student Researcher at Google.
+*  September, 2023: *DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion* is published at ICCV 2023 in Paris.
+*  June, 2023: I start working as a PhD Student Researcher at Google.
 *  April, 2023: My latest project, *DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion*, is published on arxiv.
-*  March, 2023: I have accepted an offer to work as a PhD Student Researcher at Google this summer.
 
 ---
 
