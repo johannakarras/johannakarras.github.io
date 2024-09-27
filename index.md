@@ -45,7 +45,7 @@ My research lies at the intersection of machine learning, computer vision, and g
 
 * J.P. Morgan, *Software Engineering Intern* (Summer 2019)
 
-* Microsoft, *Software Engineering/Program Management (Explore) Intern* (Summer 2018)
+* Microsoft, *Explore Intern* (Summer 2018)
 
 
 ---
