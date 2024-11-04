@@ -26,7 +26,7 @@ My research lies at the intersection of machine learning, computer vision, and g
 ---
 #### [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://johannakarras.github.io/Fashion-VDM/)
 
-<img src="https://github.com/johannakarras/johannakarras.github.io/blob/master/images/twitter_demo_short.gif"  width="500" height="300">
+<img src="images/twitter_demo_short.gif"  width="500" height="300">
 
 
 #### [DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion](https://grail.cs.washington.edu/projects/dreampose/)
