@@ -25,12 +25,12 @@ My research lies at the intersection of machine learning, computer vision, and g
 ### Research Projects
 
 ---
-#### [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://johannakarras.github.io/Fashion-VDM/)
+#### [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://johannakarras.github.io/Fashion-VDM/) (SIGGRAPH Asia 2024)
 
 <img src="images/twitter_demo_short.gif"  width="500" height="300">
 
 
-#### [DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion](https://grail.cs.washington.edu/projects/dreampose/)
+#### [DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion](https://grail.cs.washington.edu/projects/dreampose/) (ICCV 2023)
 
 <img src="images/DreamPose.png"  width="500" height="300">
 
