@@ -27,10 +27,14 @@ My research lies at the intersection of machine learning, computer vision, and g
 ---
 #### [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://johannakarras.github.io/Fashion-VDM/) (SIGGRAPH Asia 2024)
 
+Given a garment image and person video, Fashion-VDM synthesizes a photorealistic try-on video. We introduce a state-of-the-art video virtual try-on model based on diffusion, split classifier-free guidance, joint image-video training for try-on, and a progressive temporal training scheme.
+
 <img src="images/twitter_demo_short.gif"  width="500" height="300">
 
 
 #### [DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion](https://grail.cs.washington.edu/projects/dreampose/) (ICCV 2023)
+
+Given a person image and pose sequence, DreamPose generates an animation of the input person following the pose sequence. DreamPose equips Stable Diffusion with pose-and-image guidance, using a novel encoder architecture and finetuning strategy.
 
 <img src="images/DreamPose.png"  width="500" height="300">
 
