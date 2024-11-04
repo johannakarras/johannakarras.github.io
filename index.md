@@ -13,6 +13,7 @@ My research lies at the intersection of machine learning, computer vision, and g
 ---
 ### Highlights
 ---
+*  July, 2024: *Fashion-VDM: Video Diffusion Model for Virtual Try-On* is accepted to SIGGRAPH Asia 2024 in Tokyo.
 *  June, 2024: I return as a PhD Student Researcher at Google.
 *  Sept, 2023: *DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion* is published at ICCV 2023 in Paris.
 *  June, 2023: I start working as a PhD Student Researcher at Google.
