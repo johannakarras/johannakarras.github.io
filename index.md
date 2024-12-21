@@ -8,11 +8,13 @@
 
 ---
 
-My research lies at the intersection of machine learning, computer vision, and graphics. I am currently interested in still image reanimation and generative modeling.
+My current research interests lie in generative AI, specifically video and image synthesis. I am pursuing my PhD in the Graphics and Imaging Lab (GRAIL) at the University of Washington, advised by Ira Kemelmacher-Shlizerman, Steve Seitz, and Brian Curless.
 
 ---
 ### Highlights
 ---
+*  December, 2024: I attended SIGGRAPH Asia in Tokyo, Japan!
+*  December, 2024: *Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories* is published on arxiv.
 *  October, 2024: *Fashion-VDM: Video Diffusion Model for Virtual Try-On* is published on arxiv.
 *  July, 2024: *Fashion-VDM: Video Diffusion Model for Virtual Try-On* is accepted to SIGGRAPH Asia 2024 in Tokyo.
 *  June, 2024: I return as a PhD Student Researcher at Google.
@@ -31,6 +33,9 @@ Given a garment image and person video, Fashion-VDM synthesizes a photorealistic
 
 <img src="images/twitter_demo_short.gif"  width="500" height="300">
 
+#### [Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories](https://arxiv.org/abs/2412.05279) (arxiv 2024)
+
+We propose Perturb-and-Revise, which makes possible a variety of NeRF editing. First, we perturb the NeRF parameters with random initializations to create a versatile initialization. Then, we revise the edited NeRF via generative trajectories.
 
 #### [DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion](https://grail.cs.washington.edu/projects/dreampose/) (ICCV 2023)
 
