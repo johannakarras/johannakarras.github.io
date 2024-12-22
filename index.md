@@ -27,19 +27,31 @@ My current research interests lie in generative AI, specifically video and image
 ### Research Projects
 
 ---
-#### [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://johannakarras.github.io/Fashion-VDM/) (SIGGRAPH Asia 2024)
+### Fashion-VDM: Video Diffusion Model for Virtual Try-On, SIGGRAPH Asia 2024
+
+***Johanna Karras**, Yingwei Li, Nan Liu, Luyang Zhu, Innfarn Yoo, Andreas Lugmayr, Chris Lee, Ira Kemelmacher-Shlizerman*
 
 Given a garment image and person video, Fashion-VDM synthesizes a photorealistic try-on video. We introduce a state-of-the-art video virtual try-on model based on diffusion, split classifier-free guidance, joint image-video training for try-on, and a progressive temporal training scheme.
 
+#### [Project Page](https://johannakarras.github.io/Fashion-VDM/) | [Arxiv](https://arxiv.org/abs/2411.00225)
+
 <img src="images/twitter_demo_short.gif"  width="500" height="300">
 
-#### [Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories](https://arxiv.org/abs/2412.05279) (arxiv 2024)
+### Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories, arxiv 2024
+*Susung Hong, **Johanna Karras**, Ricardo Martin-Brualla, Ira Kemelmacher-Shlizerman*
 
 We propose Perturb-and-Revise, which makes possible a variety of NeRF editing. First, we perturb the NeRF parameters with random initializations to create a versatile initialization. Then, we revise the edited NeRF via generative trajectories.
 
-#### [DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion](https://grail.cs.washington.edu/projects/dreampose/) (ICCV 2023)
+#### [Arxiv](https://arxiv.org/abs/2412.05279)
+
+<img src="images/perturb_and_revise.png"  width="500" height="183">
+
+### DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion, ICCV 2023
+***Johanna Karras**, Aleksander Holynski, Ting-Chun Wang, Ira Kemelmacher-Shlizerman*
 
 Given a person image and pose sequence, DreamPose generates an animation of the input person following the pose sequence. DreamPose equips Stable Diffusion with pose-and-image guidance, using a novel encoder architecture and finetuning strategy.
+
+#### [Project Page](https://grail.cs.washington.edu/projects/dreampose/) | [Arxiv](https://arxiv.org/abs/2304.06025)
 
 <img src="images/DreamPose.png"  width="500" height="300">
 
