@@ -1,6 +1,6 @@
 ## Curriculum Vitae
 
-##### [Download CV.pdf](/files/CV.pdf) 
+##### [Download Resume](/files/Resume.pdf) 
 
 
 ---
