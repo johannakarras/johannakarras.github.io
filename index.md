@@ -42,7 +42,7 @@ Given a garment image and person video, Fashion-VDM synthesizes a photorealistic
 
 We propose Perturb-and-Revise, which makes possible a variety of NeRF editing. First, we perturb the NeRF parameters with random initializations to create a versatile initialization. Then, we revise the edited NeRF via generative trajectories.
 
-#### [Arxiv](https://arxiv.org/abs/2412.05279)
+#### [Project Page](https://susunghong.github.io/Perturb-and-Revise/) | [Arxiv](https://arxiv.org/abs/2412.05279)
 
 <img src="images/perturb_and_revise.png"  width="500" height="183">
 
