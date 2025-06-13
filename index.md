@@ -38,7 +38,9 @@ My current research interests lie in generative AI, specifically video and image
 </p>
 
 #### [Project Page](https://johannakarras.github.io/Fashion-VDM/) | [Arxiv](https://arxiv.org/abs/2411.00225)
+
 <br>
+<p></p>
 
 <p>
   <img src="images/perturb_and_revise_2.png" alt="Description" align="left" width="380" height="270">
@@ -50,6 +52,7 @@ My current research interests lie in generative AI, specifically video and image
 #### [Project Page](https://susunghong.github.io/Perturb-and-Revise/) | [Arxiv](https://arxiv.org/abs/2412.05279)
 
 <br>
+<p></p>
 
 <p>
   <img src="images/DreamPose.png" alt="Description" align="left" width="380" height="300">
@@ -61,6 +64,7 @@ My current research interests lie in generative AI, specifically video and image
 #### [Project Page](https://grail.cs.washington.edu/projects/dreampose/) | [Arxiv](https://arxiv.org/abs/2304.06025)
 
 <br>
+<p></p>
 
 #### Deep Neural Networks for Black Hole Imaging
 
