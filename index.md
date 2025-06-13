@@ -13,11 +13,13 @@ My current research interests lie in generative AI, specifically video and image
 ---
 ### Highlights
 ---
-*  December, 2024: I attended SIGGRAPH Asia in Tokyo, Japan!
+*  June, 2025: I return to Google as PhD Student Researcher.
+*  April, 2025: *Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories* is accepted to CVPR 2025 in Nashvill, TN.
+*  December, 2024: I attended SIGGRAPH Asia in Tokyo, Japan
 *  December, 2024: *Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories* is published on arxiv.
 *  October, 2024: *Fashion-VDM: Video Diffusion Model for Virtual Try-On* is published on arxiv.
 *  July, 2024: *Fashion-VDM: Video Diffusion Model for Virtual Try-On* is accepted to SIGGRAPH Asia 2024 in Tokyo.
-*  June, 2024: I return as a PhD Student Researcher at Google.
+*  June, 2024: I return to Google as PhD Student Researcher.
 *  Sept, 2023: *DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion* is published at ICCV 2023 in Paris.
 *  June, 2023: I start working as a PhD Student Researcher at Google.
 *  April, 2023: *DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion* is published on arxiv.
@@ -64,6 +66,7 @@ Given a person image and pose sequence, DreamPose generates an animation of the 
 ### Internships
 
 ---
+* Google, *PhD Student Researcher* (Summer 2025)
 
 * Google, *PhD Student Researcher* (Summer 2024)
   
