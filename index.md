@@ -14,7 +14,7 @@ My current research interests lie in generative AI, specifically video and image
 ### Highlights
 ---
 *  June, 2025: I return to Google as PhD Student Researcher.
-*  April, 2025: *Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories* is accepted to CVPR 2025 in Nashvill, TN.
+*  April, 2025: *Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories* is accepted to CVPR 2025 in Nashville, TN.
 *  December, 2024: I attended SIGGRAPH Asia in Tokyo, Japan
 *  December, 2024: *Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories* is published on arxiv.
 *  October, 2024: *Fashion-VDM: Video Diffusion Model for Virtual Try-On* is published on arxiv.
@@ -29,7 +29,6 @@ My current research interests lie in generative AI, specifically video and image
 ### Research Projects
 
 ---
-
 <p>
   <img src="images/twitter_demo_short.gif" alt="Description" align="left" width="400" height="270">
   <h3>Fashion-VDM: Video Diffusion Model for Virtual Try-On, SIGGRAPH Asia 2024</h3>
@@ -40,7 +39,7 @@ My current research interests lie in generative AI, specifically video and image
 #### [Project Page](https://johannakarras.github.io/Fashion-VDM/) | [Arxiv](https://arxiv.org/abs/2411.00225)
 
 <br>
-<p></p>
+
 
 <p>
   <img src="images/perturb_and_revise_2.png" alt="Description" align="left" width="380" height="270">
@@ -52,7 +51,6 @@ My current research interests lie in generative AI, specifically video and image
 #### [Project Page](https://susunghong.github.io/Perturb-and-Revise/) | [Arxiv](https://arxiv.org/abs/2412.05279)
 
 <br>
-<p></p>
 
 <p>
   <img src="images/DreamPose.png" alt="Description" align="left" width="380" height="300">
@@ -64,7 +62,6 @@ My current research interests lie in generative AI, specifically video and image
 #### [Project Page](https://grail.cs.washington.edu/projects/dreampose/) | [Arxiv](https://arxiv.org/abs/2304.06025)
 
 <br>
-<p></p>
 
 #### Deep Neural Networks for Black Hole Imaging
 
