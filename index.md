@@ -29,33 +29,38 @@ My current research interests lie in generative AI, specifically video and image
 ### Research Projects
 
 ---
-### Fashion-VDM: Video Diffusion Model for Virtual Try-On, SIGGRAPH Asia 2024
 
-***Johanna Karras**, Yingwei Li, Nan Liu, Luyang Zhu, Innfarn Yoo, Andreas Lugmayr, Chris Lee, Ira Kemelmacher-Shlizerman*
-
-Given a garment image and person video, Fashion-VDM synthesizes a photorealistic try-on video. We introduce a state-of-the-art video virtual try-on model based on diffusion, split classifier-free guidance, joint image-video training for try-on, and a progressive temporal training scheme.
+<p>
+  <img src="images/twitter_demo_short.gif" alt="Description" align="left" width="400" height="270">
+  <h3>Fashion-VDM: Video Diffusion Model for Virtual Try-On, SIGGRAPH Asia 2024</h3>
+  <p><i><b>Johanna Karras</b>, Yingwei Li, Nan Liu, Luyang Zhu, Innfarn Yoo, Andreas Lugmayr, Chris Lee, Ira Kemelmacher-Shlizerman</i></p>
+  Given a garment image and person video, Fashion-VDM synthesizes a photorealistic try-on video. We introduce a state-of-the-art video virtual try-on model based on diffusion, split classifier-free guidance, joint image-video training for try-on, and a progressive temporal training scheme.
+</p>
 
 #### [Project Page](https://johannakarras.github.io/Fashion-VDM/) | [Arxiv](https://arxiv.org/abs/2411.00225)
+<br>
 
-<img src="images/twitter_demo_short.gif"  width="500" height="300">
-
-### Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories, CVPR 2025
-*Susung Hong, **Johanna Karras**, Ricardo Martin-Brualla, Ira Kemelmacher-Shlizerman*
-
-We propose Perturb-and-Revise, which makes possible a variety of NeRF editing. First, we perturb the NeRF parameters with random initializations to create a versatile initialization. Then, we revise the edited NeRF via generative trajectories.
+<p>
+  <img src="images/perturb_and_revise_2.png" alt="Description" align="left" width="380" height="270">
+  <h3>Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories, CVPR 2025</h3>
+  <p><i>Susung Hong, <b>Johanna Karras</b>, Ricardo Martin-Brualla, Ira Kemelmacher-Shlizerman</i></p>
+  <p>We propose Perturb-and-Revise, which makes possible a variety of NeRF editing. First, we perturb the NeRF parameters with random initializations to create a versatile initialization. Then, we revise the edited NeRF via generative trajectories.</p>
+</p>
 
 #### [Project Page](https://susunghong.github.io/Perturb-and-Revise/) | [Arxiv](https://arxiv.org/abs/2412.05279)
 
-<img src="images/perturb_and_revise.png"  width="500" height="183">
+<br>
 
-### DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion, ICCV 2023
-***Johanna Karras**, Aleksander Holynski, Ting-Chun Wang, Ira Kemelmacher-Shlizerman*
-
-Given a person image and pose sequence, DreamPose generates an animation of the input person following the pose sequence. DreamPose equips Stable Diffusion with pose-and-image guidance, using a novel encoder architecture and finetuning strategy.
+<p>
+  <img src="images/DreamPose.png" alt="Description" align="left" width="380" height="300">
+  <h3>DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion, ICCV 2023</h3>
+  <p><i><b>Johanna Karras</b>, Aleksander Holynski, Ting-Chun Wang, Ira Kemelmacher-Shlizerman</i></p>
+  <p>Given a person image and pose sequence, DreamPose generates an animation of the input person following the pose sequence. DreamPose equips Stable Diffusion with pose-and-image guidance, using a novel encoder architecture and finetuning strategy.</p>
+</p>
 
 #### [Project Page](https://grail.cs.washington.edu/projects/dreampose/) | [Arxiv](https://arxiv.org/abs/2304.06025)
 
-<img src="images/DreamPose.png"  width="500" height="300">
+<br>
 
 #### Deep Neural Networks for Black Hole Imaging
 
