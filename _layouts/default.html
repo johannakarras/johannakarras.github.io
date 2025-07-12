@@ -26,12 +26,12 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper" style="width:90%; max-width: 1200px;">
+    <div class="wrapper" style="width:90%; min-width: 1200px; max-width: 1200px;">
       <header>
         <h1 style="margin-left:1cm"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius:250px;"/>
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius:250px; max-width:300px;"/>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
