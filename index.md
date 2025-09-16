@@ -13,16 +13,16 @@ My current research interests lie in generative AI, specifically video and image
 ---
 ### Highlights
 ---
+*  September, 2025: *HoloGarment: 360° Novel View Synthesis of In-the-Wild Garments* is published on arxiv.
 *  June, 2025: I return to Google as PhD Student Researcher.
 *  April, 2025: *Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories* is accepted to CVPR 2025 in Nashville, TN.
 *  December, 2024: I attended SIGGRAPH Asia in Tokyo, Japan
-*  December, 2024: *Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories* is published on arxiv.
-*  October, 2024: *Fashion-VDM: Video Diffusion Model for Virtual Try-On* is published on arxiv.
-*  July, 2024: *Fashion-VDM: Video Diffusion Model for Virtual Try-On* is accepted to SIGGRAPH Asia 2024 in Tokyo.
+*  July, 2024: *Fashion-VDM: Video Diffusion Model for Virtual Try-On* is accepted to SIGGRAPH Asia 2024 in Tokyo, Japan.
 *  June, 2024: I return to Google as PhD Student Researcher.
-*  Sept, 2023: *DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion* is published at ICCV 2023 in Paris.
+*  September, 2023: *DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion* is published at ICCV 2023 in Paris.
 *  June, 2023: I start working as a PhD Student Researcher at Google.
-*  April, 2023: *DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion* is published on arxiv.
+*  September, 2021: I start my PhD at the University of Washington in the Graphics and Imaging Lab (GRAIL).
+*  June, 2021: I graduate Caltech with a B.S. in Computer Science.
 
 ---
 
@@ -30,7 +30,18 @@ My current research interests lie in generative AI, specifically video and image
 
 ---
 <p>
-  <img src="images/twitter_demo_short.gif" alt="Description" align="left" width="400" height="270">
+  <img src="images/hologarment_mini.gif" alt="HoloGarment" align="left" width="400" height="270">
+  <h3>HoloGarment: 360° Novel View Synthesis of In-the-Wild Garments, Arxiv 2025</h3>
+  <p><i><b>Johanna Karras</b>, Yingwei Li, Yasamin Jafarian, Ira Kemelmacher-Shlizerman</i></p>
+  HoloGarment synthesizes photorealistic 360° novel views of real-world garments in images and videos, even in the presence of occlusions, wrinkling, and significant pose variations. We introduce a novel implicit training paradigm with 2D videos and synthetic 3D assets in order to learn in-the-wild garment novel view synthesis without real-world paired data.
+</p>
+
+#### [Project Page](https://johannakarras.github.io/HoloGarment/) | [Arxiv](https://arxiv.org/abs/2509.12187)
+
+<br>
+
+<p>
+  <img src="images/twitter_demo_short.gif" alt="Fashion-VDM" align="left" width="400" height="270">
   <h3>Fashion-VDM: Video Diffusion Model for Virtual Try-On, SIGGRAPH Asia 2024</h3>
   <p><i><b>Johanna Karras</b>, Yingwei Li, Nan Liu, Luyang Zhu, Innfarn Yoo, Andreas Lugmayr, Chris Lee, Ira Kemelmacher-Shlizerman</i></p>
   Given a garment image and person video, Fashion-VDM synthesizes a photorealistic try-on video. We introduce a state-of-the-art video virtual try-on model based on diffusion, split classifier-free guidance, joint image-video training for try-on, and a progressive temporal training scheme.
