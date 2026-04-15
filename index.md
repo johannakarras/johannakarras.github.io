@@ -31,7 +31,7 @@ My current research interests lie in generative AI, specifically video and image
 
 ---
 <p>
-  <img src="images/FIT.png" alt="FIT" align="left" width="400" height="270">
+  <img src="images/FIT.png" alt="FIT" align="left" width="390" height="270">
   <h3>FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On, SIGGRAPH 2026</h3>
   <p><i><b>Johanna Karras*</b>, Yuanhao Wang*, Yingwei Li, Ira Kemelmacher-Shlizerman</i></p>
   We introduce FIT (<b>F</b>it-<b>I</b>nclusive <b>T</b>ry-on), a virtual try-on dataset of 1.13M samples covering diverse garment fits, each annotated with precise body/garment measurements. Our novel data generation pipeline leverages synthetic garment simulation and photorealistic retexturing. Then, we leverage FIT to train a state-of-the-art fit-aware virtual try-on model. <i>* Equal contribution </i>
