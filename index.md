@@ -13,13 +13,14 @@ My current research interests lie in generative AI, specifically video and image
 ---
 ### Highlights
 ---
+*  April, 2026: *FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On* is accepted to SIGGRAPH 2026 in Los Angeles, CA.
 *  September, 2025: *HoloGarment: 360° Novel View Synthesis of In-the-Wild Garments* is published on arxiv.
 *  June, 2025: I return to Google as PhD Student Researcher.
 *  April, 2025: *Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories* is accepted to CVPR 2025 in Nashville, TN.
 *  December, 2024: I attended SIGGRAPH Asia in Tokyo, Japan
 *  July, 2024: *Fashion-VDM: Video Diffusion Model for Virtual Try-On* is accepted to SIGGRAPH Asia 2024 in Tokyo, Japan.
 *  June, 2024: I return to Google as PhD Student Researcher.
-*  September, 2023: *DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion* is published at ICCV 2023 in Paris.
+*  September, 2023: *DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion* is published at ICCV 2023 in Paris, France.
 *  June, 2023: I start working as a PhD Student Researcher at Google.
 *  September, 2021: I start my PhD at the University of Washington in the Graphics and Imaging Lab (GRAIL).
 *  June, 2021: I graduate Caltech with a B.S. in Computer Science.
@@ -29,6 +30,17 @@ My current research interests lie in generative AI, specifically video and image
 ### Research Projects
 
 ---
+<p>
+  <img src="images/FIT.png" alt="FIT" align="left" width="400" height="270">
+  <h3>FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On, SIGGRAPH 2026</h3>
+  <p><i><b>Johanna Karras*</b>, Yuanhao Wang*, Yingwei Li, Ira Kemelmacher-Shlizerman</i></p>
+  We introduce FIT (<b>F</b>it-<b>I</b>nclusive <b>T</b>ry-on), a virtual try-on dataset of 1.13M samples covering diverse garment fits, each annotated with precise body/garment measurements. Our novel data generation pipeline leverages synthetic garment simulation and photorealistic retexturing. Then, we leverage FIT to train a state-of-the-art fit-aware virtual try-on model. <i>* Equal contribution </i>
+</p>
+
+#### [Project Page](https://johannakarras.github.io/FIT/) | [Arxiv](https://arxiv.org/abs/2604.08526)
+
+<br>
+
 <p>
   <img src="images/hologarment_mini.gif" alt="HoloGarment" align="left" width="400" height="270">
   <h3>HoloGarment: 360° Novel View Synthesis of In-the-Wild Garments, Arxiv 2025</h3>
